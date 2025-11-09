@@ -196,7 +196,10 @@ This project uses several datasets:
 | **LViT-T (1/4)** | **80.95** | **71.31** |
 
 ## Project Demo Video
+Youtube video link
+click here to view the Youtube Video: https://youtu.be/v3H9DFwKOkQ
 
-Watch the demo: https://youtu.be/v3H9DFwKOkQ
+Power point Presentation
+click here to view the Powerpoint Presentation:https://docs.google.com/presentation/d/1vZzZQUREojMJa_VaVtgJ72cM2xhb0Rgy/edit?usp=drivesdk&ouid=113326186047383276892&rtpof=true&sd=true
 
 ***
