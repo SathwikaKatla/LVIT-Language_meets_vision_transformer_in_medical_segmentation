@@ -200,6 +200,6 @@ Youtube video link
 click here to view the Youtube Video: https://youtu.be/v3H9DFwKOkQ
 
 Power point Presentation
-click here to view the Powerpoint Presentation:https://docs.google.com/presentation/d/1vZzZQUREojMJa_VaVtgJ72cM2xhb0Rgy/edit?usp=drivesdk&ouid=113326186047383276892&rtpof=true&sd=true
+click here to view the Powerpoint Presentation:https://docs.google.com/presentation/d/1xW5ubkf45r3VGIg_m2lKZKbpi8kcT6Yg/edit?usp=drivesdk&ouid=104732777641016224814&rtpof=true&sd=true
 
 ***
